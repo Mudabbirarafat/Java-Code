@@ -7,7 +7,7 @@ class dogs
 
     public String getinfo()
     {
-        return ("breed=" + breed + " size=" + size + " age=" + age + " color=" + color);
+        return ("breed=" + breed + " \nsize=" + size + " \nage=" + age + " \ncolor=" + color);
 
     }
     public static void main(String[] args)
